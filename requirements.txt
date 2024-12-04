@@ -1,0 +1,10 @@
+torch==2.4
+transformers 
+timm 
+decord 
+pandas 
+pillow 
+matplotlib
+opencv-python
+lightning
+#deepspeed

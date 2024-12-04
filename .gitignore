@@ -1,0 +1,10 @@
+*.gz
+*.gz.*
+*.mp4
+*.bin
+
+venv/
+__pycache__/
+Kinetics-400/
+weights/
+pretrained_weights/*.txt
